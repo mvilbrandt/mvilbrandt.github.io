@@ -2,4 +2,8 @@
 <img src = "https://github.com/user-attachments/assets/3b5af849-4cf1-4207-b026-9cf3f946a741" width = "150" height = "225" />
 
 ## A Little About Myself
-My name is Mason Vilbrandt, and I am a recent graduate of the University of Wisconsin–Madison, where I earned a Bachelor of Science in Data Science along with a certificate in Digital Media Analytics. I am currently based in Milton, Wisconsin, actively seeking opportunities to apply my data-driven mindset and analytical skills in a professional setting. I am highly detail-oriented, passionate about working with data, and eager to contribute to a company that values curiosity, precision, and innovation. Below are some links to my resume, past projects, 
+My name is Mason Vilbrandt, and I am a recent graduate of the University of Wisconsin–Madison, where I earned a Bachelor of Science in Data Science and a certificate in Digital Media Analytics. Currently based in Milton, Wisconsin, I am actively pursuing opportunities to apply my analytical skills and data-driven mindset in a professional environment.
+
+I am detail-oriented, passionate about turning data into actionable insights, and eager to contribute to a company that values innovation, precision, and curiosity. Below, you’ll find links to my résumé, project portfolio, and other credentials that highlight my experience and capabilities.
+
+Thank you for taking the time to learn more about me—I look forward to connecting.
