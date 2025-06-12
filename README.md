@@ -9,4 +9,4 @@ I am detail-oriented, passionate about turning data into actionable insights, an
 Thank you for taking the time to learn more about me—I look forward to connecting.
 
 ## [Résumé](https://github.com/user-attachments/files/20714970/Mason.Vilbrandt.Resume.pdf)
-
+<img width="541" alt="ResumeImage" src="https://github.com/user-attachments/assets/a33a2b80-78e1-4ca2-8684-6addd1dd6b5d" />
