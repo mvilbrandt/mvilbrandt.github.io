@@ -10,3 +10,5 @@ Thank you for taking the time to learn more about me—I look forward to connect
 
 ## [Résumé](https://github.com/user-attachments/files/20714970/Mason.Vilbrandt.Resume.pdf)
 <img src = "https://github.com/user-attachments/assets/a33a2b80-78e1-4ca2-8684-6addd1dd6b5d" width = "300" height = "450" />
+
+## Projects
