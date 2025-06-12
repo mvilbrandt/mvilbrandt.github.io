@@ -7,3 +7,5 @@ My name is Mason Vilbrandt, and I am a recent graduate of the University of Wisc
 I am detail-oriented, passionate about turning data into actionable insights, and eager to contribute to a company that values innovation, precision, and curiosity. Below, you’ll find links to my résumé, project portfolio, and other credentials that highlight my experience and capabilities.
 
 Thank you for taking the time to learn more about me—I look forward to connecting.
+
+## [Resume]
