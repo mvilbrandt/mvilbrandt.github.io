@@ -9,7 +9,7 @@ I am detail-oriented, passionate about turning data into actionable insights, an
 Thank you for taking the time to learn more about me—I look forward to connecting.
 
 ## Socials
-<img src = "https://github.com/user-attachments/assets/13ba5ca7-d8f8-4862-91b6-7d0085fcd0bf" width = "30" height = "30" />
+<img src = "https://github.com/user-attachments/assets/13ba5ca7-d8f8-4862-91b6-7d0085fcd0bf" width = "30" height = "30" /> [LinkedIn](https://www.linkedin.com/in/mason-vilbrandt-2a65ba32b/)
 
 
 
