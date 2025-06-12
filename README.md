@@ -15,7 +15,10 @@ Thank you for taking the time to learn more about me—I look forward to connect
 
 <img src = "https://github.com/user-attachments/assets/111ab23e-e126-4a48-b5ce-36a7fe33c3b0" width = "30" height = "30" />
 
-<img src = "https://github.com/user-attachments/assets/492c63c1-f9e3-4487-8390-c81e78a1cf33" width = "30" height = "30" />
+<img src = "https://github.com/user-attachments/assets/240777fe-4532-4156-bb83-70bed1a0b9a9" width = "30" height = "30" />
+
+
+
 
 
 
