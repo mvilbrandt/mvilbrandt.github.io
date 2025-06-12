@@ -8,4 +8,4 @@ I am detail-oriented, passionate about turning data into actionable insights, an
 
 Thank you for taking the time to learn more about me—I look forward to connecting.
 
-## [Resume]
+## [Resume](https://docs.google.com/document/d/1gxzTXy4j_3aXw69Z5_TBVyGW_K3jXhhdLK688snBV0w/edit?tab=t.0)
