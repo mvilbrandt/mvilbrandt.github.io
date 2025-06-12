@@ -11,6 +11,7 @@ Thank you for taking the time to learn more about me—I look forward to connect
 ## Socials
 <img src = "https://github.com/user-attachments/assets/13ba5ca7-d8f8-4862-91b6-7d0085fcd0bf" width = "30" height = "30" /> [LinkedIn](https://www.linkedin.com/in/mason-vilbrandt-2a65ba32b/)
 
+<img src = "https://github.com/user-attachments/assets/df45e54a-48b5-444e-b4db-2fc026c508d8" width = "30" height = "30" /> [Handshake](https://wisc.joinhandshake.com/profiles/z3hse6)
 
 
 
