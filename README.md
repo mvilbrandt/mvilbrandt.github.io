@@ -19,12 +19,7 @@ Thank you for taking the time to learn more about me—I look forward to connect
 
 <img src = "https://github.com/user-attachments/assets/da86ed68-8381-435e-8474-d8dbcdee5044" width = "30" height = "30" /> [Facebook](https://www.facebook.com/mason.vilbrandt/)
 
-
-
-
-
-
-<img src = "https://github.com/user-attachments/assets/240777fe-4532-4156-bb83-70bed1a0b9a9" width = "30" height = "30" />
+<img src = "https://github.com/user-attachments/assets/240777fe-4532-4156-bb83-70bed1a0b9a9" width = "30" height = "30" /> [X](https://x.com/MVilbrandt)
 
 
 
