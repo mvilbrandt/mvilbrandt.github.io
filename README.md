@@ -15,6 +15,15 @@ Thank you for taking the time to learn more about me—I look forward to connect
 
 <img src = "https://github.com/user-attachments/assets/111ab23e-e126-4a48-b5ce-36a7fe33c3b0" width = "30" height = "30" /> [Indeed](https://profile.indeed.com/)
 
+<img src = "https://github.com/user-attachments/assets/cc3369cf-fcff-4d07-8228-2c78122922a3" width = "30" height = "30" /> [Instagram]([https://profile.indeed.com/](https://www.instagram.com/masonvilbrandt/?next=%2F))
+
+<img src = "https://github.com/user-attachments/assets/da86ed68-8381-435e-8474-d8dbcdee5044" width = "30" height = "30" /> [Facebook](https://www.facebook.com/mason.vilbrandt/)
+
+
+
+
+
+
 <img src = "https://github.com/user-attachments/assets/240777fe-4532-4156-bb83-70bed1a0b9a9" width = "30" height = "30" />
 
 
