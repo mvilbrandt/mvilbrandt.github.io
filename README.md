@@ -13,8 +13,7 @@ Thank you for taking the time to learn more about me—I look forward to connect
 
 <img src = "https://github.com/user-attachments/assets/df45e54a-48b5-444e-b4db-2fc026c508d8" width = "30" height = "30" /> [Handshake](https://wisc.joinhandshake.com/profiles/z3hse6)
 
-<img src = "https://github.com/user-attachments/assets/111ab23e-e126-4a48-b5ce-36a7fe33c3b0" width = "30" height = "30" />
-
+<img src = "https://github.com/user-attachments/assets/111ab23e-e126-4a48-b5ce-36a7fe33c3b0" width = "30" height = "30" /> [Indeed](https://profile.indeed.com/)
 
 <img src = "https://github.com/user-attachments/assets/240777fe-4532-4156-bb83-70bed1a0b9a9" width = "30" height = "30" />
 
