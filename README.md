@@ -37,7 +37,9 @@ During my final semesters at the University of Wisconsin–Madison, I had the op
 
 ### ML Project 1: SailCo
 
+This machine learning project was inspired by a model introduced in my Data Optimization course. It focuses on optimizing production planning by determining the number of sailboats that can be manufactured over the next four quarters, given specific demand forecasts and operational constraints. Click below to view the full model and analysis.
 
+[Sailco](file:///Users/mas/Desktop/Job%20Application%20/Projects/Sailco.html)
 
 
 
