@@ -43,6 +43,24 @@ This machine learning project was inspired by a model introduced in my Data Opti
 
 ### ML Project 2: Widgets
 
+This optimization model is a Critical Path Method (CPM) model implemented in GAMS using GAMSPy. It is used to determine the minimum project completion time for producing a new product at Widgetco.
+
+#### Key features:
+Activities: There are 6 project activities (e.g., training workers, purchasing raw materials, making subassemblies).
+
+Precedence constraints: Some activities must be completed before others can begin (e.g., subassemblies can't be made before training and purchasing materials).
+
+Durations: Each activity has a fixed time duration.
+
+Decision variables: The model finds the optimal start time for each activity (t) and the total project duration (projDur).
+
+#### Objective:
+Minimize projDur, the total time to complete all activities, while respecting precedence constraints and activity durations.
+
+#### Summary:
+This model schedules project tasks to minimize completion time, identifying the critical path — the longest sequence of dependent tasks that determines the project's minimum duration. Below is the html link to the model.
+
+[Widgets](https://mvilbrandt.github.io/Widgets.html)
 
 
 
