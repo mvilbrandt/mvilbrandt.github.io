@@ -105,6 +105,7 @@ Visualization of cost vs. initial inventory
 
 #### Summary
 This model is a cost-optimized production and inventory planner for SailCo. It decides how many boats to build (regular vs overtime) and how much inventory to carry each quarter to meet demand at minimum cost, while exploring how changes in initial stock affect outcomes. Below is the link to the html file for the model.
+
 [Sailco](https://mvilbrandt.github.io/Sailco.html)
 
 ### ML Project 2: Widgets
