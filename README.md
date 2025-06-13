@@ -31,7 +31,7 @@ Thank you for taking the time to learn more about me—I look forward to connect
 
 [download](https://github.com/user-attachments/files/20714970/Mason.Vilbrandt.Resume.pdf)
 
-## Projects
+## Machine Learning Projects
 
 During my final semesters at the University of Wisconsin–Madison, I had the opportunity to work on several collaborative and individual projects that highlight my skills in data analysis, machine learning, and data visualization. Below are links to select projects, including machine learning models and a data visualization project that showcase both my technical abilities and my commitment to clear, impactful storytelling through data.
 
@@ -128,6 +128,10 @@ Minimize projDur, the total time to complete all activities, while respecting pr
 This model schedules project tasks to minimize completion time, identifying the critical path — the longest sequence of dependent tasks that determines the project's minimum duration. Below is the html link to the model.
 
 [Widgets](https://mvilbrandt.github.io/Widgets.html)
+
+## Data Visualization Projects
+
+I have developed a wide range of data visualizations using SQL and RStudio, showcasing my ability to extract, analyze, and present complex datasets in a clear and impactful manner. Below are a few selected examples from a final project in my capstone class for my Digital Media Analytics Certificate.
 
 
 
