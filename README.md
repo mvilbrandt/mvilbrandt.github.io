@@ -41,5 +41,8 @@ This machine learning project was inspired by a model introduced in my Data Opti
 
 [Sailco](https://mvilbrandt.github.io/Sailco.html)
 
+### ML Project 2: Widgets
+
+
 
 
