@@ -135,6 +135,9 @@ I have developed a wide range of data visualizations using SQL and RStudio, show
 
 <img src = "https://github.com/user-attachments/assets/e372f877-c713-4071-9350-8e576cd8200e" width = "500" height = "400" /> <img src = "https://github.com/user-attachments/assets/5a900be2-b5b4-4878-88cd-d5c95fd710d4" width = "500" height = "400" />
 
+[Poster](https://github.com/user-attachments/files/20731661/Journ677.Final.Poster.pdf)
+
+
 
 
 
