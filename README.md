@@ -37,8 +37,74 @@ During my final semesters at the University of Wisconsin–Madison, I had the op
 
 ### ML Project 1: SailCo
 
-This machine learning project was inspired by a model introduced in my Data Optimization course. It focuses on optimizing production planning by determining the number of sailboats that can be manufactured over the next four quarters, given specific demand forecasts and operational constraints. Click below to view the full model and analysis.
+This model solves SailCo’s quarterly sailboat production planning problem using two approaches—both framed as minimum-cost network flow (MCNF) models in GAMSPy:
 
+#### Goal
+Minimize total costs of:
+
+Regular labor production (400 USD/boat, max 40/quarter)
+
+Overtime labor production (450 USD/boat, unlimited)
+
+Inventory holding (20 USD/boat/month)
+
+while meeting the demand for sailboats over 4 quarters:
+
+Q1: 40
+
+Q2: 60
+
+Q3: 75
+
+Q4: 25
+With initial stock of 10 boats.
+
+#### What the Model Does
+1. Formulation as an LP (inventory flow model)
+Defines decision variables:
+Regular, Overtime, and Inventory for each month
+
+Enforces balance constraints to ensure demand is met using:
+
+Inventory carried over
+
+Production via regular/overtime labor
+
+Initial stock
+
+Minimizes total cost using constraints and parameters.
+
+2. Formulation as a MCNF model
+Models each quarter and production type as nodes
+
+Defines arcs:
+
+From a master supply node to Regular and Overtime
+
+From Regular/Overtime to monthly nodes (m1, m2, etc.)
+
+From month to month to model inventory transitions
+
+Flow balance equations guarantee the correct number of boats produced, used, and stored
+
+Solves using x[i,j] as the flow variable on each arc.
+
+3. Sensitivity Analysis
+Varies initial stock (normally distributed samples)
+
+Re-solves the MCNF model for each scenario
+
+Plots how starting inventory affects total cost
+
+#### Outputs
+Optimal cost
+
+Boat production and inventory plan for each month
+
+Visualization of cost vs. initial inventory
+
+#### Summary
+This model is a cost-optimized production and inventory planner for SailCo. It decides how many boats to build (regular vs overtime) and how much inventory to carry each quarter to meet demand at minimum cost, while exploring how changes in initial stock affect outcomes. Below is the link to the html file for the model.
 [Sailco](https://mvilbrandt.github.io/Sailco.html)
 
 ### ML Project 2: Widgets
