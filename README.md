@@ -133,5 +133,6 @@ This model schedules project tasks to minimize completion time, identifying the 
 
 I have developed a wide range of data visualizations using SQL and RStudio, showcasing my ability to extract, analyze, and present complex datasets in a clear and impactful manner. Below are a few selected examples from a final project in my capstone class for my Digital Media Analytics Certificate.
 
+<img src = "https://github.com/user-attachments/assets/e372f877-c713-4071-9350-8e576cd8200e" width = "500" height = "400" />
 
 
