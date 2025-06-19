@@ -135,7 +135,7 @@ I have developed a wide range of data visualizations using SQL and RStudio, show
 
 <img src = "https://github.com/user-attachments/assets/e372f877-c713-4071-9350-8e576cd8200e" width = "500" height = "400" /> <img src = "https://github.com/user-attachments/assets/5a900be2-b5b4-4878-88cd-d5c95fd710d4" width = "500" height = "400" />
 
-<img src = "https://github.com/user-attachments/assets/9cc74f0f-dcdc-4042-84eb-35f2108a2890" width = "1000" height = "500" />
+<img src = "https://github.com/user-attachments/assets/0fcca4db-e415-4c00-ac85-b7ddff5bd712" width = "1300" height = "650" />
 
 
 
