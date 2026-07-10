@@ -27,7 +27,8 @@ Thank you for taking the time to learn more about me—I look forward to connect
 
 
 ## Résumé
-<img src = "https://github.com/user-attachments/assets/723c531d-034f-4754-8aa5-76a0bc479378" width="400" height="600" />
+
+<img src = "https://github.com/user-attachments/assets/723c531d-034f-4754-8aa5-76a0bc479378" width = "400" height = "600" />
 
 <img src = "https://github.com/user-attachments/assets/a33a2b80-78e1-4ca2-8684-6addd1dd6b5d" width = "400" height = "600" />
 
